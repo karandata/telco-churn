@@ -533,7 +533,7 @@ This classification model is has a binary target or a bernoulli distribution, wh
 
 In binary classification models we can visualize the confusion matrix, which looks like this:
 
-![Confusion Matrix](table-blog.png "Confusion Matrix")
+![Confusion Matrix](churn_MODEL_files/table-blog.png "Confusion Matrix")
 
 To understand this, here are what each one means:
 
